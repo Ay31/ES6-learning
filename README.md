@@ -1,6 +1,8 @@
 # es6-learning
 [第一章 块级绑定](https://github.com/yin31/es6-learning/blob/master/note/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%9D%97%E7%BA%A7%E7%BB%91%E5%AE%9A.md)
+
 [第二章 字符串和正则表达式](https://github.com/Ay31/ES6-learning/blob/master/note/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+
 [第三章 函数](https://github.com/Ay31/ES6-learning/blob/master/note/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%87%BD%E6%95%B0.md)
 [第四章 扩展的对象功能](https://github.com/Ay31/ES6-learning/blob/master/note/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%89%A9%E5%B1%95%E7%9A%84%E5%AF%B9%E8%B1%A1%E5%8A%9F%E8%83%BD.md)
 [第五章 解构：更方便的数据访问](https://github.com/Ay31/ES6-learning/blob/master/note/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E8%A7%A3%E6%9E%84%EF%BC%9A%E6%9B%B4%E6%96%B9%E4%BE%BF%E7%9A%84%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE.md)
